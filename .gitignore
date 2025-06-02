@@ -1,0 +1,25 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+
+# Ignore all files in the cache directory
+cache/*
+
+# Ignore all files in the logs directory
+logs/*
+
+.env
+
+# gitignore for python virtual environment
+venv/
+
+# gitignore for python cache
+__pycache__/
+
+Lib/*
+
+Scripts
